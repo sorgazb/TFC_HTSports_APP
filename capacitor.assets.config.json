@@ -1,0 +1,9 @@
+{
+  "resourcesDirectory": "./resources",
+  "icon": {
+    "source": "resources/icon.png"
+  },
+  "splash": {
+    "source": "resources/splash.png"
+  }
+}
