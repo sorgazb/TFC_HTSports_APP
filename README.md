@@ -105,7 +105,7 @@ Documentación
 
 Haz un fork del repositorio.
 
-Crea una rama feature:
+Crea una rama:
 
 ```txt
 git checkout -b feature/nombre-feature
